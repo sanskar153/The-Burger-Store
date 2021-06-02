@@ -7,7 +7,7 @@
  
  You can SignUp,place your order and can Checkout also.<br/>
  
- You also can also trcak your records of the orders that you placed.
+ You can also trcak your records of the previous orders that you placed.
 
 # LINK
 
