@@ -8,6 +8,8 @@
  You can SignUp,place your order and can Checkout also.<br/>
  
  You can also track your records of the previous orders that you placed.
+ 
+ Order details are also stored in Firebase which is used as backend.
 
 # LINK
 
@@ -31,3 +33,8 @@ $ npm start <br />
 ![Screenshot (36)](https://user-images.githubusercontent.com/79687388/120475789-6f691d00-c3c7-11eb-8767-a06ec168fa58.png)
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/79687388/120475811-75f79480-c3c7-11eb-93dc-02c9e78afa8d.png)
+
+![Screenshot (53)](https://user-images.githubusercontent.com/79687388/122337905-93e2fe80-cf5c-11eb-888c-197c7e0de087.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/79687388/122337923-99404900-cf5c-11eb-8004-e7c409fd3f80.png)
+
