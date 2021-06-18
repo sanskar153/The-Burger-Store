@@ -11,18 +11,22 @@
  
  Order details are also stored in Firebase which is used as backend.
 
-# LINK
+# LINK TO THE WEBSITE
+
+[CLICK HERE](https://react-my-burger-a72a0.web.app/)
 
 
-[LINK TO THE SITE](https://react-my-burger-a72a0.web.app/)
+ # want to deploy...
 
+Just add the pacakages and change the config.env file<br>
 
-# Installation
-  
+Packages :<br> 
 $ npm install <br />
 $ npm install --save axios react-router-dom <br />
 $ npm install --save redux react-redux <br />
 $ npm start <br />
+
+# Screenshots
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/79687388/120475732-5e201080-c3c7-11eb-8321-bb70926f0972.png)
 
