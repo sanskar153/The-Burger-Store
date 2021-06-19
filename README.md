@@ -16,7 +16,7 @@
 [CLICK HERE](https://react-my-burger-a72a0.web.app/)
 
 
- # want to deploy...
+ # Want to install...
 
 Just add the pacakages and change the config.env file<br>
 
